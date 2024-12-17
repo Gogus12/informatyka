@@ -9,7 +9,9 @@ using namespace std;
    	cout <<"Podaj imie:";
    	cin >>b;
    	
+
    	cout<< "WItaj "<< b << " masz "<< a << " lat" <<endl;
+
    }
 	
 	
